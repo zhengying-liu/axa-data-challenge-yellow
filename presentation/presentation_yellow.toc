@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Data pre-processing \& Feature engineering}{3}{0}{1}
+\beamer@sectionintoc {2}{Data visualization \& Preliminary analysis}{7}{0}{2}
+\beamer@sectionintoc {3}{Our approaches}{15}{0}{3}
+\beamer@subsectionintoc {3}{1}{A first simple approach}{16}{0}{3}
+\beamer@subsectionintoc {3}{2}{A generalized version: Linear LinEx Regression}{20}{0}{3}
+\beamer@subsectionintoc {3}{3}{Random Forest}{46}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{48}{0}{4}

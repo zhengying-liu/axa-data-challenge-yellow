@@ -1,0 +1,37 @@
+\frametitle{\texttt{(ASS\_ASSIGNMENT, dayofweek, month, slot)
+= (Crises, 5, 1, 0)}}
+\begin{itemize}[<+->]
+\item
+\begin{verbatim}
+(ASS_ASSIGNMENT=Crises, slot=0)
+\end{verbatim}
+\item
+\begin{verbatim}
+(ASS_ASSIGNMENT=Crises, month=1)
+\end{verbatim}
+\item
+\begin{verbatim}
+(ASS_ASSIGNMENT=Crises, dayofweek=5)
+\end{verbatim}
+\item
+\begin{verbatim}
+(slot=0)
+\end{verbatim}
+\item
+\begin{verbatim}
+(month=1)
+\end{verbatim}
+\item
+\begin{verbatim}
+(dayofweek=5)
+\end{verbatim}
+\item
+\begin{verbatim}
+(ASS_ASSIGNMENT=Crises)
+\end{verbatim}
+\item
+\begin{verbatim}
+()
+\end{verbatim}
+\pause $\Uparrow$ intercept
+\end{itemize}
